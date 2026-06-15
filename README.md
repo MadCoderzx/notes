@@ -1,4 +1,10 @@
-# Kubernetes & Minikube Hands-On Project
+# Kubernetes & Minikube
+
+**Intern ID:** CITS706  
+**Intern Name:** Mohammad Arif  
+**Duration:** 1 Week  
+**Project Name:** Kubernetes (Minikube)  
+**Project Scope:** Learn Kubernetes and Minikube  
 
 A practical project for learning Kubernetes (K8s) concepts by deploying a full-stack application on a local cluster using Minikube.
 
