@@ -3,8 +3,8 @@
 **Intern ID:** CITS706  
 **Intern Name:** Mohammad Arif  
 **Duration:** 1 Week  
-**Project Name:** Kubernetes (Minikube)  
-**Project Scope:** Learn Kubernetes and Minikube  
+**Project Name:** Kubernetes Local Cluster (Minikube)  
+**Project Scope:** Learn Kubernetes and Local Cluster using Minikube  
 
 A practical project for learning Kubernetes (K8s) concepts by deploying a full-stack application on a local cluster using Minikube.
 
