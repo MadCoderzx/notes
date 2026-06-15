@@ -5,7 +5,7 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    app: notes-backend
+    app: notes-server
   ports:
     - port: 5000
       targetPort: 5000

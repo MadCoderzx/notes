@@ -258,23 +258,12 @@ If this returns a URL but nothing loads, check the frontend pods are Ready:
 kubectl get pods -l app=notes-frontend
 ```
 
-## Running without Kubernetes (Docker Compose)
+## Screenshots
 
-If you just want to run the app without K8s:
+| Minikube | Docker |
+|-------|-----------|
+| ![Minikube](screenshots/minikube.png) | ![Docker](screenshots/docker1.png) |
 
-```bash
-# Set your database URL
-cp server/.env.example server/.env
-# Edit server/.env with your DATABASE_URL
-
-docker compose up --build
-```
-
-| Service  | URL                  |
-|----------|----------------------|
-| Frontend | http://localhost     |
-| API      | http://localhost:5000|
-
-## License
-
-MIT
+| Apply Kubernetes| Service|
+|-------|-----------|
+| ![Apply Kubernetes](screenshots/apply.png) | ![Service](screenshots/service.png) |
